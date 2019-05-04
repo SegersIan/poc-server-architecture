@@ -1,0 +1,15 @@
+{
+  "name": "poc-server-architecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./web-api/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pino": "^5.12.2"
+  }
+}
